@@ -13,6 +13,10 @@ createRoot(document.getElementById('root')).render(
                     <p className="text-2xl">parttime frontend developer</p>
                     <p className="text-2xl">still in school</p>
                     <p className="text-2xl">working in it</p>
+                    <br/>
+                    <p className="text-2xl font-bold underline">current projects</p>
+                    <p className="text-2xl">alytic bots (wip)</p>
+                    <a className="text-2xl hover:underline" href="https://github.com/Jqnn/challenge">minecraft challenge plugin (wip)</a>
                 </div>
                 <FooterComponent/>
             </div>
